@@ -1,2 +1,3 @@
 # Estudos
 Estudos e testes
+Esse é um repositório de estudos e testes, sobre aprendizados e testes para Front-end...
